@@ -1,3 +1,7 @@
+using apbd_2026_cw10.Data;
+using apbd_2026_cw10.Services;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
