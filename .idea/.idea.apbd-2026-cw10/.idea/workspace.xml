@@ -5,11 +5,16 @@
     <projectFile profileName="https">apbd-2026-cw10/apbd-2026-cw10.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f68fe0b7-7daa-4f64-a09a-0e52cd4fd49e" name="Changes" comment="" />
+    <list default="true" id="f68fe0b7-7daa-4f64-a09a-0e52cd4fd49e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.apbd-2026-cw10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.apbd-2026-cw10/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DpaMonitoringSettings">
+    <option name="firstShow" value="false" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -17,20 +22,31 @@
         <entry key="$PROJECT_DIR$/apbd-2026-cw10" value="master" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/apbd-2026-cw10" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "RadekJedraszczak"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;RadekJedraszczak&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/RadekJedraszczak/apbd-2026-cw10",
-    "accountId": "b531ed7e-8e77-4b8e-92fb-8a00cdb24420"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/RadekJedraszczak/apbd-2026-cw10.git&quot;,
+    &quot;accountId&quot;: &quot;b531ed7e-8e77-4b8e-92fb-8a00cdb24420&quot;
   }
-}]]></component>
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/Desktop/EndpointsAndDiagram/GetAllResponse.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Desktop/EndpointsAndDiagram/GetByIdResponse.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Desktop/EndpointsAndDiagram/PostRequest.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Desktop/EndpointsAndDiagram/PostResponse.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Desktop/EndpointsAndDiagram/PutRequest.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/apbd-2026-cw10/Configurations/PcConfigurations.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/apbd-2026-cw10/Controllers/PcController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/apbd-2026-cw10/Services/DbService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/apbd-2026-cw10/Services/IDbService.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -42,11 +58,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    ".NET Launch Settings Profile.apbd-2026-cw10: http.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "git-widget-placeholder": "main",
+    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
   }
@@ -94,6 +113,8 @@
       <updated>1778945911589</updated>
       <workItem from="1778945912963" duration="424000" />
       <workItem from="1779104980896" duration="4012000" />
+      <workItem from="1779187767472" duration="6488000" />
+      <workItem from="1779210809753" duration="4941000" />
     </task>
     <task id="LOCAL-00001" summary="0">
       <option name="closed" value="true" />
