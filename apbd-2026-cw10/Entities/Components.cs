@@ -19,11 +19,11 @@ public class Components
     
     public int ComponentManufacturesId {get; set;}
     [ForeignKey(nameof(ComponentManufacturesId))]
-    public ComponentManufacturers ComponentManufacturers { get; set; } = null!;
+    public ComponentManufacturers Manufacturer { get; set; } = null!;
     
     public int ComponentTypesId {get; set;}
     [ForeignKey(nameof(ComponentTypesId))]
-    public ComponentTypes ComponentTypes { get; set; } = null!;
+    public ComponentTypes Types { get; set; } = null!;
     
     public ICollection<PcComponents> PcComponents { get; set; } = [];
 }
