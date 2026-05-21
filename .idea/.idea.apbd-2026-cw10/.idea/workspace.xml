@@ -4,6 +4,9 @@
     <projectFile profileName="http">apbd-2026-cw10/apbd-2026-cw10.csproj</projectFile>
     <projectFile profileName="https">apbd-2026-cw10/apbd-2026-cw10.csproj</projectFile>
   </component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="f68fe0b7-7daa-4f64-a09a-0e52cd4fd49e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.apbd-2026-cw10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.apbd-2026-cw10/.idea/workspace.xml" afterDir="false" />
@@ -30,20 +33,16 @@
     &quot;assignee&quot;: &quot;RadekJedraszczak&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/RadekJedraszczak/apbd-2026-cw10.git&quot;,
-    &quot;accountId&quot;: &quot;b531ed7e-8e77-4b8e-92fb-8a00cdb24420&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/RadekJedraszczak/apbd-2026-cw10.git",
+    "accountId": "1aee3d66-8517-453f-b2f7-6599c70ec6e4"
   }
-}</component>
+}]]></component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$USER_HOME$/Desktop/EndpointsAndDiagram/GetAllResponse.json" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$USER_HOME$/Desktop/EndpointsAndDiagram/GetByIdResponse.json" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$USER_HOME$/Desktop/EndpointsAndDiagram/PostRequest.json" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$USER_HOME$/Desktop/EndpointsAndDiagram/PostResponse.json" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$USER_HOME$/Desktop/EndpointsAndDiagram/PutRequest.json" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/apbd-2026-cw10/Configurations/PcConfigurations.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/apbd-2026-cw10/Controllers/PcController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/apbd-2026-cw10/DTOs/CreateOrUpdatePcDto.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/apbd-2026-cw10/DTOs/GetManufactureDto.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/apbd-2026-cw10/DTOs/GetTypeDto.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/apbd-2026-cw10/Exceptions/NotFoundException.cs" root0="FORCE_HIGHLIGHTING" />
@@ -59,20 +58,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;.NET Launch Settings Profile.apbd-2026-cw10: http.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    ".NET Launch Settings Profile.apbd-2026-cw10: http.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "cidr.known.project.marker": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected=".NET Launch Settings Profile.apbd-2026-cw10: http">
     <configuration name="apbd-2026-cw10: http" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/apbd-2026-cw10/apbd-2026-cw10.csproj" />
@@ -119,6 +122,7 @@
       <workItem from="1779187767472" duration="6488000" />
       <workItem from="1779210809753" duration="5776000" />
       <workItem from="1779299525336" duration="8283000" />
+      <workItem from="1779315106919" duration="7409000" />
     </task>
     <task id="LOCAL-00001" summary="0">
       <option name="closed" value="true" />
